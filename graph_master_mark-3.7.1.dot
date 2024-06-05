@@ -1,0 +1,9 @@
+digraph G {
+"0f2a253" [label="Merge:\n0f2a253:# 3.7.1 / 2024-05-31\r\n\r\n**Admin Panel**\r\n\r\n- The s"];
+"0a47d77" [label="0a47d77: Mark 3.7.1"];
+"2715b48" -> "0f2a253";
+"2715b48" -> "0a47d77";
+"498ab5f" [label="498ab5f: Add release date"];
+"0a47d77" -> "498ab5f";
+"498ab5f" -> "0f2a253";
+}
